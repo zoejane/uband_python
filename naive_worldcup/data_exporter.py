@@ -21,16 +21,13 @@ def format_print(rank_item, rank):
     print('球星指数: %d' % (fame_index))
     print('\n')
 
-def ranking(result_details):
-        # 1. 按照 map 当中的 recommendation_score 字段排序(降序)
-        ranking_list = sorted(result_details.items(), key=lambda item:item[1]['recommendation_score'], reverse=True)
-        index = 0
-        for item in ranking_list:
-            index = index + 1
-            format_print(item, index)
+def print_list(ranking_list):
+    index = 0
+    for item in ranking_list:
+        index = index + 1
+        format_print(item, index)
 
-
-def ranking_by_type(result_details, ty):
+def ranking_by_type(result_details, ty='recommendation', need_print_list=True):
 
     key_dict = {
         'fame': 'fame_score',
@@ -46,10 +43,39 @@ def ranking_by_type(result_details, ty):
 
     # 1. 按照 map 中的字段排序(降序)
     ranking_list = sorted(result_details.items(), key=lambda item: item[1][ty_value], reverse=True)
-    index = 0
-    for item in ranking_list:
-        index = index + 1
-        format_print(item, index)
+
+    if need_print_list:
+        print_list(ranking_list)
+
+    return ranking_list
+
+def get_certain_ranking(result_details, ty, num):
+    ranklist = ranking_by_type(result_details, ty, need_print_list=False)
+
+    # 1. 找到排名为 num 的位置
+    rank_num = num - 1
+    # 2. 打印
+    format_print(ranklist[rank_num], num)
+    # 3. 返回
+    return ranklist[rank_num]
+
+def get_certain_date(result_details, dt_str):
+    # 1. 获取当天所有的场次
+    new_results = dict()
+    for index, item in enumerate(result_details.values()):
+        time = item['match_date']
+        time_str = time.strftime("%Y-%m-%d")
+
+        if(dt_str == time_str):
+            new_results[str(index)] = item
+
+    if(len(new_results.values()) == 0):
+        print('当天没有任何比赛')
+        return 0
+
+    # 2. 排序
+    # 3. 打印和输出
+    ranking_by_type(new_results)
 
 def main():
     result_details = md.moding()

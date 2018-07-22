@@ -3,6 +3,7 @@
 
 import data_parser as dp
 import math
+from datetime import datetime
 
 def get_team_info(teams, team_name):
     for team in teams:
@@ -72,6 +73,14 @@ def get_match_fame(squads, code_a, code_b):
     match_fame = 0.5 * fame_a + 0.5 * fame_b
     return match_fame / 100
 
+def format_date(dt, tim):
+    month = int(dt.split('.')[0])
+    day = int(dt.split('.')[1])
+    hour = int(tim.split(':')[0])
+    minute = int(tim.split(':')[1])
+
+    return datetime(year=2018, month=month, day=day, hour=hour, minute=minute)
+
 def moding():
     # 1. 读取数据
     matches = dp.parser_data('sc_data/wc_group_matches.csv')
@@ -87,6 +96,7 @@ def moding():
         # 3.1 获取比赛基本信息
         result_map = dict()
         match_id = match["No."]
+        match_date = format_date(match['Date'], match['Time'])
         team_a, team_b = match["TeamA"], match["TeamB"]
         rank_a, code_a = get_team_info(teams, team_a)
         rank_b, code_b = get_team_info(teams, team_b)
@@ -116,6 +126,7 @@ def moding():
         result_map['goal_score'] = goal_score
         result_map['fame_score'] = fame_score
         result_map['recommendation_score'] = recommendation_score
+        result_map['match_date'] = match_date
 
         match_details[match_id] = result_map
 
