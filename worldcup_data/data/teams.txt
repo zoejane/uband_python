@@ -1,0 +1,32 @@
+-Australia    # Asia - AFC (5)
+-Iran
+-Japan
+-Saudi Arabia
+-South Korea
+-Egypt       # Afica - CAF (5)
+-Morocco
+-Nigeria
+-Senegal
+-Tunisia
+-Costa Rica   # North, Central American and Caribbean - CONCACAF (3)
+-Mexico
+-Panama
+-Argentina    # South America - CONMEBOL (5)
+-Brazil
+-Colombia
+-Peru
+-Uruguay
+-Belgium      # Europe - UEFA (14)
+-Croatia
+-Denmark
+-England
+-France
+-Germany
+-Iceland
+-Poland
+-Portugal
+-Russia
+-Serbia
+-Spain
+-Sweden
+-Switzerland

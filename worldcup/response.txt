@@ -1,0 +1,1859 @@
+{
+
+
+     "3641403-1": {
+    "position": "1",
+    "commId": "3641403",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "101302443",
+    "newsId": "",
+    "comm": "Vamos Los Albicelestes!",
+    "dateIns": "17/11/2017 14:22:07",
+    "dateComment": "17/11/2017 at 14:22",
+    "visitorScreenName": "n0zbleed",
+    "Country": "Malaysia",
+    "CountryCode": "MAS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/101/302/443/avatar_50.png",
+    "avatarSmall": "/userdata/101/302/443/avatar_24.png",
+    "avatarNormal": "/userdata/101/302/443/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=101302443",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3641279-2": {
+    "position": "2",
+    "commId": "3641279",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "2302984",
+    "newsId": "",
+    "comm": "i'm 1 of his fans.",
+    "dateIns": "17/11/2017 05:45:47",
+    "dateComment": "17/11/2017 at 05:45",
+    "visitorScreenName": "Mcgoalie2010",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/230/298/4/avatar_50.png",
+    "avatarSmall": "/userdata/230/298/4/avatar_24.png",
+    "avatarNormal": "/userdata/230/298/4/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=2302984",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3641275-3": {
+    "position": "3",
+    "commId": "3641275",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "2302984",
+    "newsId": "",
+    "comm": "sorry i can't attend the world cup",
+    "dateIns": "17/11/2017 05:38:08",
+    "dateComment": "17/11/2017 at 05:38",
+    "visitorScreenName": "Mcgoalie2010",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/230/298/4/avatar_50.png",
+    "avatarSmall": "/userdata/230/298/4/avatar_24.png",
+    "avatarNormal": "/userdata/230/298/4/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=2302984",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3640763-4": {
+    "position": "4",
+    "commId": "3640763",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "101156321",
+    "newsId": "",
+    "comm": "How can I know where is going to play Argentina the first round? in order to buy one ticket to attend a match",
+    "dateIns": "16/11/2017 13:20:38",
+    "dateComment": "16/11/2017 at 13:20",
+    "visitorScreenName": "Frajo1988",
+    "Country": "El Salvador",
+    "CountryCode": "SLV",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/101/156/321/avatar_50.png",
+    "avatarSmall": "/userdata/101/156/321/avatar_24.png",
+    "avatarNormal": "/userdata/101/156/321/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=101156321",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3640018-5": {
+    "position": "5",
+    "commId": "3640018",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "101192046",
+    "newsId": "",
+    "comm": "Who is a messi fan",
+    "dateIns": "14/11/2017 21:58:06",
+    "dateComment": "14/11/2017 at 21:58",
+    "visitorScreenName": "Riddhis-god",
+    "Country": "Canada",
+    "CountryCode": "CAN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/101/192/046/avatar_50.png",
+    "avatarSmall": "/userdata/101/192/046/avatar_24.png",
+    "avatarNormal": "/userdata/101/192/046/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=101192046",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3640017-6": {
+    "position": "6",
+    "commId": "3640017",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "101192046",
+    "newsId": "",
+    "comm": "Go Argentina 🇦🇷🇦🇷😍⚽️⚽️🥇🎖🏅🏆❤️ May victory be yours",
+    "dateIns": "14/11/2017 21:57:22",
+    "dateComment": "14/11/2017 at 21:57",
+    "visitorScreenName": "Riddhis-god",
+    "Country": "Canada",
+    "CountryCode": "CAN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/101/192/046/avatar_50.png",
+    "avatarSmall": "/userdata/101/192/046/avatar_24.png",
+    "avatarNormal": "/userdata/101/192/046/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=101192046",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3634440-7": {
+    "position": "7",
+    "commId": "3634440",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100908016",
+    "newsId": "",
+    "comm": "Messi is killing the team! He is so good that even a slight drop of his form causes his teammates to panic and perform badly in effect. C'mon Messi, without you Argentina's football team of 2017 is almost nothing.",
+    "dateIns": "10/10/2017 23:31:56",
+    "dateComment": "10/10/2017 at 23:31",
+    "visitorScreenName": "Matt.888",
+    "Country": "United Kingdom",
+    "CountryCode": "GBR",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/908/016/avatar_50.png",
+    "avatarSmall": "/userdata/100/908/016/avatar_24.png",
+    "avatarNormal": "/userdata/100/908/016/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100908016",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3632639-8": {
+    "position": "8",
+    "commId": "3632639",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "7146524",
+    "newsId": "",
+    "comm": "Team Argentina",
+    "dateIns": "07/10/2017 16:31:51",
+    "dateComment": "07/10/2017 at 16:31",
+    "visitorScreenName": "krsna11",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/714/652/4/avatar_50.png",
+    "avatarSmall": "/userdata/714/652/4/avatar_24.png",
+    "avatarNormal": "/userdata/714/652/4/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=7146524",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3632153-9": {
+    "position": "9",
+    "commId": "3632153",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100871211",
+    "newsId": "",
+    "comm": "2022",
+    "dateIns": "06/10/2017 02:54:43",
+    "dateComment": "06/10/2017 at 02:54",
+    "visitorScreenName": "Sharfmtr",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/871/211/avatar_50.png",
+    "avatarSmall": "/userdata/100/871/211/avatar_24.png",
+    "avatarNormal": "/userdata/100/871/211/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100871211",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3630264-10": {
+    "position": "10",
+    "commId": "3630264",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100682161",
+    "newsId": "",
+    "comm": "I reserve my tickets (2) i want to know if it is ok or with my aplication I will receive some confirmation # my name is Dardo Omar Rodríguez and one guest Pablo Omar Rodríguez, please confirm....best regard. ...Dardo",
+    "dateIns": "16/09/2017 16:21:29",
+    "dateComment": "16/09/2017 at 16:21",
+    "visitorScreenName": "Dardor",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/682/161/avatar_50.png",
+    "avatarSmall": "/userdata/100/682/161/avatar_24.png",
+    "avatarNormal": "/userdata/100/682/161/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100682161",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3629424-11": {
+    "position": "11",
+    "commId": "3629424",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "8756563",
+    "newsId": "",
+    "comm": "does anyone have the statistic of the game(2017/09/06 - v Venezuela), including passes, procession, corner and player distance covered, something like that?",
+    "dateIns": "07/09/2017 16:36:21",
+    "dateComment": "07/09/2017 at 16:36",
+    "visitorScreenName": "Dunsming",
+    "Country": "Macau",
+    "CountryCode": "MAC",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/875/656/3/avatar_50.png",
+    "avatarSmall": "/userdata/875/656/3/avatar_24.png",
+    "avatarNormal": "/userdata/875/656/3/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=8756563",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3628426-12": {
+    "position": "12",
+    "commId": "3628426",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "9909988",
+    "newsId": "",
+    "comm": "Messi and Dybala will have a coming out party!!! 4-0 ArgentinaVAMOS VAMOS ARGENTINA.....",
+    "dateIns": "05/09/2017 04:47:04",
+    "dateComment": "05/09/2017 at 04:47",
+    "visitorScreenName": "Castro40t",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/990/998/8/avatar_50.png",
+    "avatarSmall": "/userdata/990/998/8/avatar_24.png",
+    "avatarNormal": "/userdata/990/998/8/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=9909988",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3628106-13": {
+    "position": "13",
+    "commId": "3628106",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100457363",
+    "newsId": "",
+    "comm": "I LOVE ARGENTINA",
+    "dateIns": "04/09/2017 04:42:48",
+    "dateComment": "04/09/2017 at 04:42",
+    "visitorScreenName": "IND-18FIFA",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/457/363/avatar_50.png",
+    "avatarSmall": "/userdata/100/457/363/avatar_24.png",
+    "avatarNormal": "/userdata/100/457/363/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100457363",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3627152-14": {
+    "position": "14",
+    "commId": "3627152",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100358940",
+    "newsId": "",
+    "comm": "Argentina 💘 me more and more",
+    "dateIns": "01/09/2017 02:09:21",
+    "dateComment": "01/09/2017 at 02:09",
+    "visitorScreenName": "anowarhos516",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/358/940/avatar_50.png",
+    "avatarSmall": "/userdata/100/358/940/avatar_24.png",
+    "avatarNormal": "/userdata/100/358/940/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100358940",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3627151-15": {
+    "position": "15",
+    "commId": "3627151",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100358940",
+    "newsId": "",
+    "comm": "In which condition Argentina go to world Cup 2018",
+    "dateIns": "01/09/2017 02:07:49",
+    "dateComment": "01/09/2017 at 02:07",
+    "visitorScreenName": "anowarhos516",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/358/940/avatar_50.png",
+    "avatarSmall": "/userdata/100/358/940/avatar_24.png",
+    "avatarNormal": "/userdata/100/358/940/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100358940",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3626871-16": {
+    "position": "16",
+    "commId": "3626871",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100450067",
+    "newsId": "",
+    "comm": "argentina will definitely gonna qualify for world cup russia 2018.will love to watch messi, icardi, dybala and di maria together start against uruguay.good luck",
+    "dateIns": "31/08/2017 08:48:08",
+    "dateComment": "31/08/2017 at 08:48",
+    "visitorScreenName": "mehras7-",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/450/067/avatar_50.png",
+    "avatarSmall": "/userdata/100/450/067/avatar_24.png",
+    "avatarNormal": "/userdata/100/450/067/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100450067",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3626677-17": {
+    "position": "17",
+    "commId": "3626677",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100446674",
+    "newsId": "",
+    "comm": "Argentina better than uruguay becoz Argentina have ( Lionel Messi, Di Maria, Dybala, Sergio AGUERO)",
+    "dateIns": "30/08/2017 12:38:49",
+    "dateComment": "30/08/2017 at 12:38",
+    "visitorScreenName": "saikrupakar4",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/446/674/avatar_50.png",
+    "avatarSmall": "/userdata/100/446/674/avatar_24.png",
+    "avatarNormal": "/userdata/100/446/674/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100446674",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3624170-18": {
+    "position": "18",
+    "commId": "3624170",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "3850035",
+    "newsId": "",
+    "comm": "Good luck, dear Argentina!",
+    "dateIns": "26/07/2017 16:04:19",
+    "dateComment": "26/07/2017 at 16:04",
+    "visitorScreenName": "Zaher-Maykop",
+    "Country": "Russia",
+    "CountryCode": "RUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/385/003/5/avatar_50.png",
+    "avatarSmall": "/userdata/385/003/5/avatar_24.png",
+    "avatarNormal": "/userdata/385/003/5/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=3850035",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3620079-19": {
+    "position": "19",
+    "commId": "3620079",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "100084845",
+    "newsId": "",
+    "comm": "i love always Argentina ,,,,,",
+    "dateIns": "05/06/2017 15:37:31",
+    "dateComment": "05/06/2017 at 15:37",
+    "visitorScreenName": "Ashiksmr",
+    "Country": "Bangladesh",
+    "CountryCode": "BAN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/100/084/845/avatar_50.png",
+    "avatarSmall": "/userdata/100/084/845/avatar_24.png",
+    "avatarNormal": "/userdata/100/084/845/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=100084845",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3602141-20": {
+    "position": "20",
+    "commId": "3602141",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "7885284",
+    "newsId": "",
+    "comm": "Uruguay is better than agentina by cavani and suarez ------suarez has scored the most ever beautiful goals I have seen in my life",
+    "dateIns": "17/11/2016 00:55:33",
+    "dateComment": "17/11/2016 at 00:55",
+    "visitorScreenName": "boshbosh-USA",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/788/528/4/avatar_50.png",
+    "avatarSmall": "/userdata/788/528/4/avatar_24.png",
+    "avatarNormal": "/userdata/788/528/4/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=7885284",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3602140-21": {
+    "position": "21",
+    "commId": "3602140",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "7885284",
+    "newsId": "",
+    "comm": "I like argentina team but I don't think Argentina is rank # 1 what about holland and uruguay both holland and uruguay play wonderfull",
+    "dateIns": "17/11/2016 00:54:04",
+    "dateComment": "17/11/2016 at 00:54",
+    "visitorScreenName": "boshbosh-USA",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/788/528/4/avatar_50.png",
+    "avatarSmall": "/userdata/788/528/4/avatar_24.png",
+    "avatarNormal": "/userdata/788/528/4/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=7885284",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3601552-22": {
+    "position": "22",
+    "commId": "3601552",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32762563",
+    "newsId": "",
+    "comm": "argentina forever!!!!!!!!!!!!",
+    "dateIns": "15/11/2016 13:37:40",
+    "dateComment": "15/11/2016 at 13:37",
+    "visitorScreenName": "Ronit8",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/327/625/63/avatar_50.png",
+    "avatarSmall": "/userdata/327/625/63/avatar_24.png",
+    "avatarNormal": "/userdata/327/625/63/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32762563",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3599340-23": {
+    "position": "23",
+    "commId": "3599340",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "33335986",
+    "newsId": "",
+    "comm": "paulo debala its your chance",
+    "dateIns": "08/11/2016 19:52:50",
+    "dateComment": "08/11/2016 at 19:52",
+    "visitorScreenName": "azadpp-1-9",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/333/359/86/avatar_50.png",
+    "avatarSmall": "/userdata/333/359/86/avatar_24.png",
+    "avatarNormal": "/userdata/333/359/86/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=33335986",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3561929-24": {
+    "position": "24",
+    "commId": "3561929",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32458494",
+    "newsId": "",
+    "comm": "ARGENTINA ALL THEVWAY!!!! 😍😍",
+    "dateIns": "19/04/2016 12:10:33",
+    "dateComment": "19/04/2016 at 12:10",
+    "visitorScreenName": "Iesha11",
+    "Country": "Jamaica",
+    "CountryCode": "JAM",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/324/584/94/avatar_50.png",
+    "avatarSmall": "/userdata/324/584/94/avatar_24.png",
+    "avatarNormal": "/userdata/324/584/94/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32458494",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3518289-25": {
+    "position": "25",
+    "commId": "3518289",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32979845",
+    "newsId": "",
+    "comm": "ARGENTINA 3-0 PARAGUY",
+    "dateIns": "12/10/2015 13:58:02",
+    "dateComment": "12/10/2015 at 13:58",
+    "visitorScreenName": "Mr.Sipan",
+    "Country": "Bangladesh",
+    "CountryCode": "BAN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/329/798/45/avatar_50.png",
+    "avatarSmall": "/userdata/329/798/45/avatar_24.png",
+    "avatarNormal": "/userdata/329/798/45/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32979845",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3514051-26": {
+    "position": "26",
+    "commId": "3514051",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "2166206",
+    "newsId": "",
+    "comm": "Argentina all the way",
+    "dateIns": "26/09/2015 23:35:25",
+    "dateComment": "26/09/2015 at 23:35",
+    "visitorScreenName": "Zeus1700",
+    "Country": "Canada",
+    "CountryCode": "CAN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/216/620/6/avatar_50.png",
+    "avatarSmall": "/userdata/216/620/6/avatar_24.png",
+    "avatarNormal": "/userdata/216/620/6/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=2166206",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3405920-27": {
+    "position": "27",
+    "commId": "3405920",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32033187",
+    "newsId": "",
+    "comm": "Argentina is great team than any other team. Uruguay is nothing .",
+    "dateIns": "23/08/2014 11:21:39",
+    "dateComment": "23/08/2014 at 11:21",
+    "visitorScreenName": "Ameer111.",
+    "Country": "Pakistan",
+    "CountryCode": "PAK",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/320/331/87/avatar_50.png",
+    "avatarSmall": "/userdata/320/331/87/avatar_24.png",
+    "avatarNormal": "/userdata/320/331/87/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32033187",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3405524-28": {
+    "position": "28",
+    "commId": "3405524",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32673275",
+    "newsId": "",
+    "comm": "Argentina is better than uruguay",
+    "dateIns": "21/08/2014 14:44:30",
+    "dateComment": "21/08/2014 at 14:44",
+    "visitorScreenName": "KTWINS",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/326/732/75/avatar_50.png",
+    "avatarSmall": "/userdata/326/732/75/avatar_24.png",
+    "avatarNormal": "/userdata/326/732/75/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32673275",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3400986-29": {
+    "position": "29",
+    "commId": "3400986",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "15620785",
+    "newsId": "",
+    "comm": "Argentina will never be as good as uruguay",
+    "dateIns": "04/08/2014 04:21:12",
+    "dateComment": "04/08/2014 at 04:21",
+    "visitorScreenName": "2030worldcup",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/156/207/85/avatar_50.png",
+    "avatarSmall": "/userdata/156/207/85/avatar_24.png",
+    "avatarNormal": "/userdata/156/207/85/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=15620785",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3398457-30": {
+    "position": "30",
+    "commId": "3398457",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32464580",
+    "newsId": "",
+    "comm": "it is not finish... messi is the best in all over the world...",
+    "dateIns": "25/07/2014 10:00:41",
+    "dateComment": "25/07/2014 at 10:00",
+    "visitorScreenName": "M10m10L",
+    "Country": "Iran",
+    "CountryCode": "IRN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/324/645/80/avatar_50.png",
+    "avatarSmall": "/userdata/324/645/80/avatar_24.png",
+    "avatarNormal": "/userdata/324/645/80/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32464580",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3396042-31": {
+    "position": "31",
+    "commId": "3396042",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32370256",
+    "newsId": "",
+    "comm": "ARGENTINA",
+    "dateIns": "21/07/2014 05:04:53",
+    "dateComment": "21/07/2014 at 05:04",
+    "visitorScreenName": "MarvinAngelo",
+    "Country": "Philippines",
+    "CountryCode": "PHI",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/323/702/56/avatar_50.png",
+    "avatarSmall": "/userdata/323/702/56/avatar_24.png",
+    "avatarNormal": "/userdata/323/702/56/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32370256",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3394973-32": {
+    "position": "32",
+    "commId": "3394973",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "25078322",
+    "newsId": "",
+    "comm": "Really feel bad for Romero, Messi, and of course HÍGUAIN! He was an offsides and a choke away from a 2-0 ARG World Cup victory!! Still cheering for GER, though!",
+    "dateIns": "19/07/2014 00:51:07",
+    "dateComment": "19/07/2014 at 00:51",
+    "visitorScreenName": "USAForever23",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/250/783/22/avatar_50.png",
+    "avatarSmall": "/userdata/250/783/22/avatar_24.png",
+    "avatarNormal": "/userdata/250/783/22/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=25078322",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3394516-33": {
+    "position": "33",
+    "commId": "3394516",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "31499552",
+    "newsId": "",
+    "comm": "Did you guys watched the games in which Argentina played???Argentina didn't deserve to be in the final against Germany. With a poor offensive football they were absolutely lucky, nothing else. They played for the penalties against Holland and against Belgium and they were doing the same thing against Germany...And giving Messi that award,seriously?They should've go home long time ago. I am glad that they lost and hopefully they will never again win a world cup,because there're much better teams out there,much,much better.Any other South American team deserved more than Argentina",
+    "dateIns": "18/07/2014 14:44:27",
+    "dateComment": "18/07/2014 at 14:44",
+    "visitorScreenName": "kitanga44",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/314/995/52/avatar_50.png",
+    "avatarSmall": "/userdata/314/995/52/avatar_24.png",
+    "avatarNormal": "/userdata/314/995/52/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=31499552",
+    "numreplies": "1",
+    "replies": { "3394969": {
+        "commId": "3394969",
+        "parentCommentId": "3394516",
+        "resourceId": "43922",
+        "resourceClass": "19000007",
+        "visitorId": "25078322",
+        "newsId": "",
+        "resourceId": "43922",
+        "idresourceclass": "",
+        "idcupseason": "",
+        "comm": "You deserve it by winning games and earning it.. Argentina earned it, and didnt lose a single game or even TIE until the final.. You are blind to think that Brazil earned it more! they lost 7-1 to GER in 90 minutes of play!! ARG lost 1-0 in 120 minutes of play!!! Bottomline, They were the most deserving from South America, because they ACTUALLY WON GAMES!!!",
+        "dateIns": "19/07/2014 00:46:26",
+        "dateComment": "19/07/2014 at 00:46",
+        "visitorScreenName": "USAForever23",
+        "Country": "USA",
+        "CountryCode": "USA",
+        "nComments": "646",
+        "nParentComments": "453",
+        "showAll": "true",
+        "avatar": "/userdata/250/783/22/avatar_50.png",
+        "avatarSmall": "/userdata/250/783/22/avatar_24.png",
+        "avatarNormal": "/userdata/250/783/22/avatar_80.png",
+        "urlProfile": "/theclub/profiles/index.html?user=25078322"
+    }
+    }
+    }
+    ,
+
+
+     "3394202-34": {
+    "position": "34",
+    "commId": "3394202",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32370256",
+    "newsId": "",
+    "comm": "Vamos, Vamos, Vamos Argentina!!!",
+    "dateIns": "18/07/2014 04:05:56",
+    "dateComment": "18/07/2014 at 04:05",
+    "visitorScreenName": "MarvinAngelo",
+    "Country": "Philippines",
+    "CountryCode": "PHI",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/323/702/56/avatar_50.png",
+    "avatarSmall": "/userdata/323/702/56/avatar_24.png",
+    "avatarNormal": "/userdata/323/702/56/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32370256",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3393852-35": {
+    "position": "35",
+    "commId": "3393852",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "9016504",
+    "newsId": "",
+    "comm": "Don't worry guys, at least you came second. Much better than not making the final at all. You guys are good at coming second, just like 32 years ago ;-)",
+    "dateIns": "17/07/2014 20:36:43",
+    "dateComment": "17/07/2014 at 20:36",
+    "visitorScreenName": "fahid1998",
+    "Country": "United Kingdom",
+    "CountryCode": "GBR",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/901/650/4/avatar_50.png",
+    "avatarSmall": "/userdata/901/650/4/avatar_24.png",
+    "avatarNormal": "/userdata/901/650/4/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=9016504",
+    "numreplies": "1",
+    "replies": { "3394971": {
+        "commId": "3394971",
+        "parentCommentId": "3393852",
+        "resourceId": "43922",
+        "resourceClass": "19000007",
+        "visitorId": "25078322",
+        "newsId": "",
+        "resourceId": "43922",
+        "idresourceclass": "",
+        "idcupseason": "",
+        "comm": "Yeah and lets not forget 1990 :)",
+        "dateIns": "19/07/2014 00:47:27",
+        "dateComment": "19/07/2014 at 00:47",
+        "visitorScreenName": "USAForever23",
+        "Country": "USA",
+        "CountryCode": "USA",
+        "nComments": "646",
+        "nParentComments": "453",
+        "showAll": "true",
+        "avatar": "/userdata/250/783/22/avatar_50.png",
+        "avatarSmall": "/userdata/250/783/22/avatar_24.png",
+        "avatarNormal": "/userdata/250/783/22/avatar_80.png",
+        "urlProfile": "/theclub/profiles/index.html?user=25078322"
+    }
+    }
+    }
+    ,
+
+
+     "3392933-36": {
+    "position": "36",
+    "commId": "3392933",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "24580427",
+    "newsId": "",
+    "comm": "AOA(HI),NICE GREAT ARGENTINIANS VERY NICE, no problem at all, all fans r with u. u people have tried ur level best but i could n,t. our best wishes r with u ever",
+    "dateIns": "17/07/2014 00:43:29",
+    "dateComment": "17/07/2014 at 00:43",
+    "visitorScreenName": "zia.kakar.56",
+    "Country": "Pakistan",
+    "CountryCode": "PAK",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/245/804/27/avatar_50.png",
+    "avatarSmall": "/userdata/245/804/27/avatar_24.png",
+    "avatarNormal": "/userdata/245/804/27/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=24580427",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3392227-37": {
+    "position": "37",
+    "commId": "3392227",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32194457",
+    "newsId": "",
+    "comm": "Nice try, Argentina. I'm not a Argentina fan, but to be in 2nd place is wonderful.Good job, and every team is a winner!",
+    "dateIns": "16/07/2014 17:21:31",
+    "dateComment": "16/07/2014 at 17:21",
+    "visitorScreenName": "FootCleats",
+    "Country": "Latvia",
+    "CountryCode": "LVA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/321/944/57/avatar_50.png",
+    "avatarSmall": "/userdata/321/944/57/avatar_24.png",
+    "avatarNormal": "/userdata/321/944/57/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32194457",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3389428-38": {
+    "position": "38",
+    "commId": "3389428",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "11120743",
+    "newsId": "",
+    "comm": "*Amendment: \"especially when Messi didn't score in the group stages\". We all know he did lol (4 goals), I meant the knock out stages :)",
+    "dateIns": "15/07/2014 06:11:45",
+    "dateComment": "15/07/2014 at 06:11",
+    "visitorScreenName": "Flashido",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/111/207/43/avatar_50.png",
+    "avatarSmall": "/userdata/111/207/43/avatar_24.png",
+    "avatarNormal": "/userdata/111/207/43/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=11120743",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3389414-39": {
+    "position": "39",
+    "commId": "3389414",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "11120743",
+    "newsId": "",
+    "comm": "In the end, everyone thought they (Argentina) would not make it as far as they did (final), especially when Messi didn't score in the group stages. Now so much for a so called \"Ordinary Team\"",
+    "dateIns": "15/07/2014 06:01:10",
+    "dateComment": "15/07/2014 at 06:01",
+    "visitorScreenName": "Flashido",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/111/207/43/avatar_50.png",
+    "avatarSmall": "/userdata/111/207/43/avatar_24.png",
+    "avatarNormal": "/userdata/111/207/43/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=11120743",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3389369-40": {
+    "position": "40",
+    "commId": "3389369",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "11120743",
+    "newsId": "",
+    "comm": "Lets state the fact now: Although he was unable to score during the knockout stage, Messi created the most chances, made the most successful dribbling runs, made the most deliveries into the box, and produced the most through balls of any other player throughout the World Cup!! This doesn't include the multiple match winning goals and four consecutive man of the match awards prior to getting his team to the final :)",
+    "dateIns": "15/07/2014 05:32:41",
+    "dateComment": "15/07/2014 at 05:32",
+    "visitorScreenName": "Flashido",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/111/207/43/avatar_50.png",
+    "avatarSmall": "/userdata/111/207/43/avatar_24.png",
+    "avatarNormal": "/userdata/111/207/43/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=11120743",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3388426-41": {
+    "position": "41",
+    "commId": "3388426",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "22961353",
+    "newsId": "",
+    "comm": "argentina good games you are my favorite country",
+    "dateIns": "15/07/2014 00:08:59",
+    "dateComment": "15/07/2014 at 00:08",
+    "visitorScreenName": "julio.crauda",
+    "Country": "Honduras",
+    "CountryCode": "HON",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/229/613/53/avatar_50.png",
+    "avatarSmall": "/userdata/229/613/53/avatar_24.png",
+    "avatarNormal": "/userdata/229/613/53/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=22961353",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3386023-42": {
+    "position": "42",
+    "commId": "3386023",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "28855114",
+    "newsId": "",
+    "comm": "I'm very sad for Argentina and for my idol Leo Messi.The final Vs Germany was a very balanced match.There were the chances to score but they wasted them.Congratulations in any case.",
+    "dateIns": "14/07/2014 13:59:51",
+    "dateComment": "14/07/2014 at 13:59",
+    "visitorScreenName": "moreno80s",
+    "Country": "Italy",
+    "CountryCode": "ITA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/288/551/14/avatar_50.png",
+    "avatarSmall": "/userdata/288/551/14/avatar_24.png",
+    "avatarNormal": "/userdata/288/551/14/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=28855114",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3384459-43": {
+    "position": "43",
+    "commId": "3384459",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "23809864",
+    "newsId": "",
+    "comm": "I'm really proud of Argentina. We were the underdogs and we have the Germans one helluva time. And we could have even beaten them. Nevertheless, good job Arg. Bravo! 👍",
+    "dateIns": "14/07/2014 04:56:44",
+    "dateComment": "14/07/2014 at 04:56",
+    "visitorScreenName": "Vagnis",
+    "Country": "Singapore",
+    "CountryCode": "SIN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/238/098/64/avatar_50.png",
+    "avatarSmall": "/userdata/238/098/64/avatar_24.png",
+    "avatarNormal": "/userdata/238/098/64/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=23809864",
+    "numreplies": "3",
+    "replies": { "3386026": {
+        "commId": "3386026",
+        "parentCommentId": "3384459",
+        "resourceId": "43922",
+        "resourceClass": "19000007",
+        "visitorId": "28855114",
+        "newsId": "",
+        "resourceId": "43922",
+        "idresourceclass": "",
+        "idcupseason": "",
+        "comm": "Are you Argentinian?The final was a very, very balanced match. Both teams could win but Argentina wasted many chances to score...Congratulations in any case!!",
+        "dateIns": "14/07/2014 14:01:09",
+        "dateComment": "14/07/2014 at 14:01",
+        "visitorScreenName": "moreno80s",
+        "Country": "Italy",
+        "CountryCode": "ITA",
+        "nComments": "646",
+        "nParentComments": "453",
+        "showAll": "true",
+        "avatar": "/userdata/288/551/14/avatar_50.png",
+        "avatarSmall": "/userdata/288/551/14/avatar_24.png",
+        "avatarNormal": "/userdata/288/551/14/avatar_80.png",
+        "urlProfile": "/theclub/profiles/index.html?user=28855114"
+    }
+    , "3386518": {
+        "commId": "3386518",
+        "parentCommentId": "3384459",
+        "resourceId": "43922",
+        "resourceClass": "19000007",
+        "visitorId": "23809864",
+        "newsId": "",
+        "resourceId": "43922",
+        "idresourceclass": "",
+        "idcupseason": "",
+        "comm": "I'm from Singapore but I have been supporting Argentina since I was 10 years old in 1986. Loved them ever since. Yes we wasted some chances and we could have won the game. But it's still an accomplishment for the team",
+        "dateIns": "14/07/2014 15:50:06",
+        "dateComment": "14/07/2014 at 15:50",
+        "visitorScreenName": "Vagnis",
+        "Country": "Singapore",
+        "CountryCode": "SIN",
+        "nComments": "646",
+        "nParentComments": "453",
+        "showAll": "true",
+        "avatar": "/userdata/238/098/64/avatar_50.png",
+        "avatarSmall": "/userdata/238/098/64/avatar_24.png",
+        "avatarNormal": "/userdata/238/098/64/avatar_80.png",
+        "urlProfile": "/theclub/profiles/index.html?user=23809864"
+    }
+    , "3387025": {
+        "commId": "3387025",
+        "parentCommentId": "3384459",
+        "resourceId": "43922",
+        "resourceClass": "19000007",
+        "visitorId": "28855114",
+        "newsId": "",
+        "resourceId": "43922",
+        "idresourceclass": "",
+        "idcupseason": "",
+        "comm": "Me too I have Always appreciated the great Argentinian players like the best of all (Maradona) and the others as Messi, Batistuta, Tevez, Ortega, Aguero. This time I thought they could win, but however they arrived very, very close to it.",
+        "dateIns": "14/07/2014 17:43:24",
+        "dateComment": "14/07/2014 at 17:43",
+        "visitorScreenName": "moreno80s",
+        "Country": "Italy",
+        "CountryCode": "ITA",
+        "nComments": "646",
+        "nParentComments": "453",
+        "showAll": "true",
+        "avatar": "/userdata/288/551/14/avatar_50.png",
+        "avatarSmall": "/userdata/288/551/14/avatar_24.png",
+        "avatarNormal": "/userdata/288/551/14/avatar_80.png",
+        "urlProfile": "/theclub/profiles/index.html?user=28855114"
+    }
+    }
+    }
+    ,
+
+
+     "3384342-44": {
+    "position": "44",
+    "commId": "3384342",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "31932909",
+    "newsId": "",
+    "comm": "Messi scored against who? Nigeria, Iran, Bosnia i Herzegovina? And did not score in 4 games when it really mattered as is his usual habit. I realyy can't place him next to likes of Pele, Di Stefano, Maradona, Cruiff...",
+    "dateIns": "14/07/2014 04:26:27",
+    "dateComment": "14/07/2014 at 04:26",
+    "visitorScreenName": "YuriIvai",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/319/329/09/avatar_50.png",
+    "avatarSmall": "/userdata/319/329/09/avatar_24.png",
+    "avatarNormal": "/userdata/319/329/09/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=31932909",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3382779-45": {
+    "position": "45",
+    "commId": "3382779",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "24580427",
+    "newsId": "",
+    "comm": "Aoa(hi),I wish Argentina won the final, but I congratulate to fans of ARGENTINA",
+    "dateIns": "14/07/2014 00:13:47",
+    "dateComment": "14/07/2014 at 00:13",
+    "visitorScreenName": "zia.kakar.56",
+    "Country": "Pakistan",
+    "CountryCode": "PAK",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/245/804/27/avatar_50.png",
+    "avatarSmall": "/userdata/245/804/27/avatar_24.png",
+    "avatarNormal": "/userdata/245/804/27/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=24580427",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3381622-46": {
+    "position": "46",
+    "commId": "3381622",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "29808606",
+    "newsId": "",
+    "comm": "Do not be sad I hope you win the next World Cup i love ARGENTINA",
+    "dateIns": "13/07/2014 22:45:32",
+    "dateComment": "13/07/2014 at 22:45",
+    "visitorScreenName": "parsa_np",
+    "Country": "Iran",
+    "CountryCode": "IRN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/298/086/06/avatar_50.png",
+    "avatarSmall": "/userdata/298/086/06/avatar_24.png",
+    "avatarNormal": "/userdata/298/086/06/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=29808606",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3381573-47": {
+    "position": "47",
+    "commId": "3381573",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "28454009",
+    "newsId": "",
+    "comm": "i wish Argentina won",
+    "dateIns": "13/07/2014 22:39:49",
+    "dateComment": "13/07/2014 at 22:39",
+    "visitorScreenName": "Dungeydog",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/284/540/09/avatar_50.png",
+    "avatarSmall": "/userdata/284/540/09/avatar_24.png",
+    "avatarNormal": "/userdata/284/540/09/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=28454009",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3379609-48": {
+    "position": "48",
+    "commId": "3379609",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "2678380",
+    "newsId": "",
+    "comm": "you guys can do it win it for me, its my birthday",
+    "dateIns": "13/07/2014 16:00:00",
+    "dateComment": "13/07/2014 at 16:00",
+    "visitorScreenName": "brandon-95",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/267/838/0/avatar_50.png",
+    "avatarSmall": "/userdata/267/838/0/avatar_24.png",
+    "avatarNormal": "/userdata/267/838/0/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=2678380",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3379550-49": {
+    "position": "49",
+    "commId": "3379550",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "29283288",
+    "newsId": "",
+    "comm": "argentina you are the best of all messi will score and you will win you can do it",
+    "dateIns": "13/07/2014 15:47:08",
+    "dateComment": "13/07/2014 at 15:47",
+    "visitorScreenName": "Beem123",
+    "Country": "Pakistan",
+    "CountryCode": "PAK",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/292/832/88/avatar_50.png",
+    "avatarSmall": "/userdata/292/832/88/avatar_24.png",
+    "avatarNormal": "/userdata/292/832/88/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=29283288",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3379522-50": {
+    "position": "50",
+    "commId": "3379522",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "28876740",
+    "newsId": "",
+    "comm": "I am not someone that can tell who will win but I can hope that Argentina will win.( Inshallah)",
+    "dateIns": "13/07/2014 15:42:19",
+    "dateComment": "13/07/2014 at 15:42",
+    "visitorScreenName": "Reshump",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/288/767/40/avatar_50.png",
+    "avatarSmall": "/userdata/288/767/40/avatar_24.png",
+    "avatarNormal": "/userdata/288/767/40/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=28876740",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3378535-51": {
+    "position": "51",
+    "commId": "3378535",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "32087182",
+    "newsId": "",
+    "comm": "ARG 7-0 GER",
+    "dateIns": "13/07/2014 11:51:20",
+    "dateComment": "13/07/2014 at 11:51",
+    "visitorScreenName": "cosmoleung",
+    "Country": "Hong Kong",
+    "CountryCode": "HKG",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/320/871/82/avatar_50.png",
+    "avatarSmall": "/userdata/320/871/82/avatar_24.png",
+    "avatarNormal": "/userdata/320/871/82/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=32087182",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3377990-52": {
+    "position": "52",
+    "commId": "3377990",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "1791595",
+    "newsId": "",
+    "comm": "GO ARGENTINA GO!!!...",
+    "dateIns": "13/07/2014 08:46:25",
+    "dateComment": "13/07/2014 at 08:46",
+    "visitorScreenName": "fasihpour",
+    "Country": "Canada",
+    "CountryCode": "CAN",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/179/159/5/avatar_50.png",
+    "avatarSmall": "/userdata/179/159/5/avatar_24.png",
+    "avatarNormal": "/userdata/179/159/5/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=1791595",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3377678-53": {
+    "position": "53",
+    "commId": "3377678",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "29936308",
+    "newsId": "",
+    "comm": "I love Messidona. We want revenge of 1990. Pls messi, do justice with your nation and with your dear Diego Maradona also with yourself.",
+    "dateIns": "13/07/2014 07:09:22",
+    "dateComment": "13/07/2014 at 07:09",
+    "visitorScreenName": "Babisona",
+    "Country": "India",
+    "CountryCode": "IND",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/299/363/08/avatar_50.png",
+    "avatarSmall": "/userdata/299/363/08/avatar_24.png",
+    "avatarNormal": "/userdata/299/363/08/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=29936308",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3377558-54": {
+    "position": "54",
+    "commId": "3377558",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "31338756",
+    "newsId": "",
+    "comm": "Argentina has been playing in a very awkward way, even against \"weak\" teams in what was their group. Not sure what the out come of the game will be vs. Germany, but if A!rgentina continues with this awkwardness way of playing in the field, that won't be a good out come vs. this German team. Watch out Argentina! Play your best, it's now or never!",
+    "dateIns": "13/07/2014 06:34:44",
+    "dateComment": "13/07/2014 at 06:34",
+    "visitorScreenName": "karso2014",
+    "Country": "USA",
+    "CountryCode": "USA",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/313/387/56/avatar_50.png",
+    "avatarSmall": "/userdata/313/387/56/avatar_24.png",
+    "avatarNormal": "/userdata/313/387/56/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=31338756",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3377532-55": {
+    "position": "55",
+    "commId": "3377532",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "28041696",
+    "newsId": "",
+    "comm": "GO MESSI!!!!!!!",
+    "dateIns": "13/07/2014 06:25:01",
+    "dateComment": "13/07/2014 at 06:25",
+    "visitorScreenName": "CooperW",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/280/416/96/avatar_50.png",
+    "avatarSmall": "/userdata/280/416/96/avatar_24.png",
+    "avatarNormal": "/userdata/280/416/96/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=28041696",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3377087-56": {
+    "position": "56",
+    "commId": "3377087",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "28101772",
+    "newsId": "",
+    "comm": "the king will go out, and the world will become different ,i believe.",
+    "dateIns": "13/07/2014 03:54:06",
+    "dateComment": "13/07/2014 at 03:54",
+    "visitorScreenName": "gabrielmaker",
+    "Country": "Argentina",
+    "CountryCode": "ARG",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/281/017/72/avatar_50.png",
+    "avatarSmall": "/userdata/281/017/72/avatar_24.png",
+    "avatarNormal": "/userdata/281/017/72/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=28101772",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3376522-57": {
+    "position": "57",
+    "commId": "3376522",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "17461241",
+    "newsId": "",
+    "comm": "ARG 7_1 GER",
+    "dateIns": "13/07/2014 01:41:12",
+    "dateComment": "13/07/2014 at 01:41",
+    "visitorScreenName": "iran1352",
+    "Country": "Armenia",
+    "CountryCode": "ARM",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/174/612/41/avatar_50.png",
+    "avatarSmall": "/userdata/174/612/41/avatar_24.png",
+    "avatarNormal": "/userdata/174/612/41/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=17461241",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3373322-58": {
+    "position": "58",
+    "commId": "3373322",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "15549247",
+    "newsId": "",
+    "comm": "Go! Messi, go!",
+    "dateIns": "12/07/2014 15:39:57",
+    "dateComment": "12/07/2014 at 15:39",
+    "visitorScreenName": "roosloon",
+    "Country": "Russia",
+    "CountryCode": "RUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/155/492/47/avatar_50.png",
+    "avatarSmall": "/userdata/155/492/47/avatar_24.png",
+    "avatarNormal": "/userdata/155/492/47/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=15549247",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3373207-59": {
+    "position": "59",
+    "commId": "3373207",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "31878567",
+    "newsId": "",
+    "comm": "I hope Argentina will win this world cup :)",
+    "dateIns": "12/07/2014 15:20:48",
+    "dateComment": "12/07/2014 at 15:20",
+    "visitorScreenName": "ArtesEbs",
+    "Country": "Philippines",
+    "CountryCode": "PHI",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/318/785/67/avatar_50.png",
+    "avatarSmall": "/userdata/318/785/67/avatar_24.png",
+    "avatarNormal": "/userdata/318/785/67/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=31878567",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    ,
+
+
+     "3370202-60": {
+    "position": "60",
+    "commId": "3370202",
+    "parentCommentId": "",
+    "resourceId": "43922",
+    "resourceClass": "19000007",
+    "visitorId": "9883676",
+    "newsId": "",
+    "comm": "Last time Mascherano went to Punta Del Este for the week end he jogged back home in a straight line ;) he is by far the best player for Argentina. Another Ardiles, he is everywhere all the time. Solid defence, best midfield and deadly forward line. How can they loose? Another star for the albiceleste.",
+    "dateIns": "12/07/2014 04:18:48",
+    "dateComment": "12/07/2014 at 04:18",
+    "visitorScreenName": "Charrru",
+    "Country": "Australia",
+    "CountryCode": "AUS",
+    "nComments": "646",
+    "nParentComments": "453",
+    "showAll": "true",
+    "avatar": "/userdata/988/367/6/avatar_50.png",
+    "avatarSmall": "/userdata/988/367/6/avatar_24.png",
+    "avatarNormal": "/userdata/988/367/6/avatar_80.png",
+    "urlProfile": "/theclub/profiles/index.html?user=9883676",
+    "numreplies": "0",
+    "replies": 
+        ""
+      
+    }
+    
+      , 
+    
+     "totComment":"60"}
+  
