@@ -28,6 +28,7 @@ class DoubanReview(Base):
     vote = Column(Integer)
     comment = Column(String)
     movie_id = Column(Integer, ForeignKey('movies.id'))
+    # movies = relationship("DoubanVideo", backref="movies")
 
     def __repr__(self):
         return "<DoubanReview(user='%s', star='%s', vote='%s', comment='%s')>" % (
@@ -128,3 +129,4 @@ def delete_review(movie, user):
 # create_review('another movie', 'user_a', 5, 150, 'I like it')
 # create_review('another movie', 'user_b', 5, 150, 'I like it')
 # delete_review('another movie', 'user_b')
+delete_video('another movie')
